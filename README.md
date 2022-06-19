@@ -28,7 +28,7 @@ If you'd like to add translations to QKSMS, please join the project on [Peshala_
 
 ## Contact
 
-QKSMS is developed and maintained by [Peshala_Dilshan](https://github.com/PeshalaDilshan). Feel free to reach out to moez@qklabs.com
+QKSMS is developed and maintained by [Peshala_Dilshan](https://github.com/PeshalaDilshan). Feel free to reach out to https://github.com/PeshalaDilshan
 
 ## License
 
