@@ -22,16 +22,13 @@ When reporting a bug, please make sure to provide the following information:
 
 ## Translations
 
-If you'd like to add translations to QKSMS, please join the project on [Crowdin](https://crowdin.com/project/qksms). Translations that are committed directly to source files will not be accepted.
+If you'd like to add translations to QKSMS, please join the project on [Peshala_Dilshan](https://github.com/PeshalaDilshan/qksms). Translations that are committed directly to source files will not be accepted.
 
 ## Thank you
 
-A special thank you to Jake ([@klinker41](https://github.com/klinker41)) and Luke Klinker ([@klinker24](https://github.com/klinker24)) for their work on [android-smsmms](https://github.com/klinker41/android-smsmms), which has been an unspeakably large help in implementing MMS into QKSMS.
-
-
 ## Contact
 
-QKSMS is developed and maintained by [Moez Bhatti](https://github.com/moezbhatti). Feel free to reach out to moez@qklabs.com
+QKSMS is developed and maintained by [Peshala_Dilshan](https://github.com/PeshalaDilshan). Feel free to reach out to moez@qklabs.com
 
 ## License
 
